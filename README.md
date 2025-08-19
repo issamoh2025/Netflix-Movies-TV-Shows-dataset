@@ -1,76 +1,32 @@
-# Netflix-Movies-TV-Shows-dataset
-This project analyzes the Netflix Movies &amp; TV Shows dataset as part of my data science portfolio.
+# Netflix Movies & TV Shows Analysis  
 
-# 🎬 Netflix Movies & TV Shows Analysis  
-*by Issa Mohamud*  
+This is one of my first data analysis projects.  
+I used the **Netflix Movies and TV Shows dataset (Kaggle)** to practice working with data in Python.  
 
-## 📌 Project Overview  
-This project explores the **Netflix Movies & TV Shows dataset** to practice data analysis and build my portfolio as an aspiring Data Analyst / Data Scientist.  
+## What I did
+- Cleaned the dataset (handled missing values, fixed columns)
+- Looked at Movies vs TV Shows
+- Checked how Netflix’s content grew over time
+- Found the top countries and most common genres
+- Did a small spotlight on Australian titles
 
-The goals of this project are to:  
-- Clean and prepare a real-world dataset  
-- Explore trends in Netflix content (Movies vs TV Shows, growth over time)  
-- Identify top-producing countries and popular genres  
-- Highlight insights relevant to **Australia**  
-- Summarize results with clear visuals and a short findings report  
+## Tools
+- Python (Pandas, NumPy)
+- Matplotlib for charts
 
----
+## Some insights
+- Netflix has way more movies than TV shows (~70/30 split)  
+- Content additions really spiked after 2015  
+- The US, India, and UK lead in number of titles  
+- Dramas and Comedies are the most common genres  
+- Australia has a smaller share, but still some unique titles  
 
-## 🛠️ Tools & Skills Used  
-- **Python** (Pandas, NumPy, Matplotlib)  
-- **Data Cleaning & Wrangling**  
-- **Exploratory Data Analysis (EDA)**  
-- **Data Visualization**  
-- **Markdown Reporting**  
-
----
-
-## 📊 Key Insights  
-- Mix of ~70% Movies vs ~30% TV Shows  
-- Netflix content growth surged after 2015  
-- Top contributing countries: USA, India, UK  
-- Popular genres include Dramas, Comedies, and Documentaries  
-- Australia contributes a smaller but growing set of titles  
-
-*(See `outputs/findings.md` for full notes.)*  
+## Outputs
+Charts and a short summary are saved in the `outputs/` folder.  
 
 ---
 
-## 📂 Project Structure  
-├── notebook.ipynb # Google Colab notebook
-├── netflix_titles.csv # Dataset (from Kaggle)
-├── outputs/ # Saved charts + findings summary
-│ ├── 01_movies_vs_tv.png
-│ ├── 02_growth_by_year_added.png
-│ ├── 03_top_countries.png
-│ ├── 04_top_genres.png
-│ ├── 05a_ratings_movies.png
-│ ├── 05b_ratings_tv.png
-│ ├── 06_au_growth.png
-│ └── findings.md
+*This project was mainly about getting comfortable with Python, cleaning data, and making simple visuals. Next I’ll try building dashboards and adding machine learning projects.*  
 
-
----
-
-## 🚀 How to Reproduce  
-1. Download the dataset from [Kaggle: Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows).  
-2. Open the notebook in **Google Colab**.  
-3. Upload `netflix_titles.csv` when prompted.  
-4. Run all cells to generate charts and summary.  
-5. Outputs will be saved in the `outputs/` folder.  
-
----
-
-## 📌 Next Steps  
-- Build an **interactive Power BI dashboard** using the same dataset  
-- Expand the analysis with **machine learning** (e.g., predicting popular genres)  
-- Continue adding projects to demonstrate a well-rounded skillset in **Python, SQL, and BI tools**  
-
----
-
-### ✨ Author  
-**Issa Mohamud**  
-Aspiring Data Scientist & Analyst | Passionate about AI, Data, and turning raw information into actionable insights.  
-[LinkedIn](https://www.linkedin.com/in/issa-mohamud123) | [GitHub](https://github.com/)  
-
-
+### 📎 Connect with me  
+[LinkedIn: Issa Mohamud](https://www.linkedin.com/in/issa-mohamud123)  
