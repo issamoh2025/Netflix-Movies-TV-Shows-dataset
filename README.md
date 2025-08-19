@@ -28,5 +28,5 @@ Charts and a short summary are saved in the `outputs/` folder.
 
 *This project was mainly about getting comfortable with Python, cleaning data, and making simple visuals. Next I’ll try building dashboards and adding machine learning projects.*  
 
-### 📎 Connect with me  
+###  Connect with me  
 [LinkedIn: Issa Mohamud](https://www.linkedin.com/in/issa-mohamud123)  
